@@ -1,9 +1,5 @@
 <h1 align="center">Hello &lt;Developers/&gt;!</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Coralinesp.Coralinesp" alt="Profile views">
-  [![Github](https://img.shields.io/github/followers/Coralinesp?label=Follow&style=social)](https://github.com/Coralinesp)
-</p>
 
 <div align='center' style="font-size:20px">
   Hi! My name is Caroline. Thank you for taking the time to view my GitHub Profile! 😄
